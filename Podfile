@@ -7,6 +7,10 @@ target 'API Task' do
     pod 'Alamofire'
     pod 'ObjectMapper'
     pod 'SVProgressHUD'
-# Pods for API Task
+    pod 'MaterialKit', :git => 'https://github.com/faresbh/MaterialKit',:branch => 'swift3'
+    pod 'SkyFloatingLabelTextField'
+
+
+    # Pods for API Task
 
 end

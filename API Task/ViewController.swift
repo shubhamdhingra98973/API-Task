@@ -10,6 +10,7 @@ import UIKit
 import Alamofire
 import ObjectMapper
 import SVProgressHUD
+import SkyFloatingLabelTextField
 
 class ViewController: UIViewController {
 
@@ -27,11 +28,10 @@ class ViewController: UIViewController {
     var toMatchEmail : String?
     var toMatchPassword : String?
     var segueFlag = 0
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        button.layer.cornerRadius = 3
-      
+          button.layer.cornerRadius = 3
         }
     
         override func prepare(for segue: UIStoryboardSegue, sender: Any?)

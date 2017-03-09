@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '4024858C3DB88628B85C9A2BB09B4A4C'
-               BlueprintName = 'SVProgressHUD'
+               BlueprintIdentifier = 'D4DC57A1B820910FA167A7792859D757'
+               BlueprintName = 'SkyFloatingLabelTextField'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'SVProgressHUD.framework'>
+               BuildableName = 'SkyFloatingLabelTextField.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
